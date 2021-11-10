@@ -1,4 +1,4 @@
-# Bankruptcy_Prediction_Usecase
+# Bankruptcy Prediction Usecase
 
 ## Motivation
 
